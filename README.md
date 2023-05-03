@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-v3.11-yellow)]()
 
-Seçim saaycı için basit bir bot
+Seçim sayacı için basit bir bot
 
 ### Kurulum
 
