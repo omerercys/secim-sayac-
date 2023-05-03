@@ -5,9 +5,9 @@
 Seçim sayacı için basit bir bot
 
 ### Kurulum
-
+```
 pip install -r requirements.txt
-
+```
 secimbot.py dosyasında girip token yerine kendi botunuzun tokenini giriniz
 
 ## Kullanım
